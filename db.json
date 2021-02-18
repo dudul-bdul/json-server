@@ -6,58 +6,63 @@
   "products": [
       {
           "id": 1,
-          "title": "Toshiba - 49” Class – LED - 1080p",
-          "description": "Toshiba HDTV Fire TV Edition is a new generation of smart TVs featuring the Fire TV experience built-in and including a Voice Remote with Alexa.",
-          "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6211/6211009_sd.jpg",
-          "price": 199.99,
+          "title": "Herbamil",
+          "description": "Menyuburkan kandungan dengan minum Herbamil adalah pilihan yang sangat tepat karena herbamil bersifat membuang racun yang ada di rahim serta meningkatkan kualitas kinerja rahim dan kandungan sehingga promil bisa cepat terlaksana",
+          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1811047420.jpg",
+          "price": 245.000,
           "rating": 4.6,
-          "category": "tv"
+          "category": "Herbal"
           },
           {
           "id": 2,
-          "title": "LG - 75\" Class - LED - UK6190 Series - 2160p",
-          "description": "Stream high-definition shows and watch movies with this LG 4K UHD smart TV. Its quad-core processor ensures a clear picture and reduces distracting video noise, while the webOS lets you connect to popular streaming networks.",
-          "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6290/6290163_sd.jpg",
-          "price": 999.99,
+          "title": "Hervago - Obat Vertigo, Migrain",
+          "description": "HERVAGO adalah Herbal yang terbuat dari bahan-bahan alami, yang dibuat khusus untuk membantu mengatasi Vertigo, Pusing Kepala, Kepala Berputar, Kliyengan, Kepala Berat, Kepala Sakit, Pusing Berat, Kurang Stamina, Penambah Imunitas Tubuh, Sakit Kepala Akibat Sinusitis, Migrain. HERVAGO terbuat dari 100% bahan-bahan alami pilihan dengan kualitas terbaik dan telah diuji yang sehingga sangat sinergis untuk bantu atasi Vertigo dan Migrain.",
+          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1818032402.jpg",
+          "price": 149.000,
           "rating": 4.7,
-          "category": "tv"
+          "category": "Herbal"
           },
           {
           "id": 3,
-          "title": "Sharp - 50\" Class - LED - 2160p - Smart",
-          "description": "Watch your favorite films or shows in comfort with this Sharp 4K TV. High resolutions produce images that are four times more detailed than Full HD",
-          "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5746/5746805_sd.jpg",
-          "price": 299.99,
+          "title": "Ambeyes Obat Herbal Wasir / Ambeien",
+          "description": "AMBEYES adalah Herbal yang terbuat dari bahan-bahan alami, dan dibuat khusus untuk membantu mengatasi Ambeien dan Wasir. AMBEYES terbuat dari 100% bahan-bahan alami pilihan dengan kualitas terbaik dan telah diuji yang diproses dengan teknologi nano sehingga sangat sinergis untuk bantu atasi ambeien dan wasir.",
+          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1608526687.jpg",
+          "price": 285.000,
           "rating": 4.6,
-          "category": "tv"
+          "category": "Herbal"
           },
           {
           "id": 4,
-          "title": "Apple - AirPods with Charging Case",
-          "description": "Introducing wireless AirPods. Just take them out and they're ready to use with all your Apple devices¹. Put them in your ears and they connect instantly.",
-          "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5577/5577872_rd.jpg",
-          "price": 149.99,
+          "title": "Co-Vitamin",
+          "description": "Co-Vitamin adalah suplemen berkhasiat untuk menambah imunitas tubuh, sangat dibutuhkan untuk menangkal VIRUS dan sebagai Antioksidan penangkal radikal bebas ditengah pandemi. Khasiat terbukti yang terbaik, aman tanpa efek samping. Terbuat dari bahan alami yang telah teruji klinis dan di prose secara modern sehingga tercipta produk yang berkualitas.",
+          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1798766121.jpg",
+          "price": 145.000,
           "rating": 4.8,
-          "category": "headphones"
+          "category": "Herbal"
           },
           {
           "id": 5,
-          "title": "Beats by Dr. Dre - Geek Squad Certified Refurbished",
-          "description": "Powerbeats3 wireless earphones. They are sweat-resistant and water-resistant for use during strenuous workouts, and ear hooks keep them comfortably in place.",
-          "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5732/5732548_rd.jpg",
-          "price": 61.99,
+          "title": "Herblis Obat Sipilis , Ghonore, Kencing Nanah",
+          "description": "Obat herbal sipilis ( raja singa ) HERBPLIS produk herbal dari tumbuhan Herbal 100% Alami yang bermanfaat mengobati luka pada bagian kelamin dan rasa nyeri saat buang air kecil, dan juga ampuh menyembuhkan pendarahan / keluar nanah saat buang air. obat HerbPlis akan bekerja secara alami menyembuhkan Sipilis dari dalam.",
+          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1608569655.jpg",
+          "price": 245.000,
           "rating": 4.3,
-          "category": "headphones"
+          "category": "Herbal"
+          },
+          {
+          "id": 6,
+          "title": "Herbatih - Obat Keputihan Herbal Alami",
+          "description": "Herbatih merupakan Obat Herbal khusus wanita ramuan pilihan yang ampuh untuk membantu perawatan kesehatan organ intim wanita, serta membantu meningkatkan kualitas keharmonisan hubungan suami istri, membantu menghilangkan keputihan, bau pada organ intim, rasa gatal, serta luka di bagian luar miss V Untuk keputihan yang tidak normal",
+          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1608572801.jpg",
+          "price": 245.000,
+          "rating": 4.3,
+          "category": "Herbal"
           }
     ],
   "categories": [
-      "herbal",
-      "obat",
-      "kaos",
-      "Premium Tobacco",
-      "Coffe",
-      "headphones",
-      "tv"
+      "Herbal",
+      "Jamu",
+      "Ramuan"
 
   ],
   "comments": [
@@ -65,3 +70,6 @@
   ],
   "profile": { "name": "typicode" }
 }
+
+
+
