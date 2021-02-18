@@ -6,63 +6,107 @@
   "products": [
       {
           "id": 1,
-          "title": "Herbamil",
-          "description": "Menyuburkan kandungan dengan minum Herbamil adalah pilihan yang sangat tepat karena herbamil bersifat membuang racun yang ada di rahim serta meningkatkan kualitas kinerja rahim dan kandungan sehingga promil bisa cepat terlaksana",
-          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1811047420.jpg",
-          "price": 245000,
-          "rating": 4.6,
-          "category": "Herbal"
+          "title": "MILKY COFFEE",
+          "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+          "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/a9c06c39-7717-408d-9f79-6f0a396d27e4.jpg",
+          "price": 28000,
+          "rating": 4,
+          "category": "TOBACCO FLAVOUR"
           },
           {
           "id": 2,
-          "title": "Hervago - Obat Vertigo, Migrain",
-          "description": "HERVAGO adalah Herbal yang terbuat dari bahan-bahan alami, yang dibuat khusus untuk membantu mengatasi Vertigo, Pusing Kepala, Kepala Berputar, Kliyengan, Kepala Berat, Kepala Sakit, Pusing Berat, Kurang Stamina, Penambah Imunitas Tubuh, Sakit Kepala Akibat Sinusitis, Migrain. HERVAGO terbuat dari 100% bahan-bahan alami pilihan dengan kualitas terbaik dan telah diuji yang sehingga sangat sinergis untuk bantu atasi Vertigo dan Migrain.",
+          "title": "HONEY CHOCOLATE",
+          "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
           "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1818032402.jpg",
-          "price": 149000,
-          "rating": 4.7,
-          "category": "Herbal"
+          "price": 28000,
+          "rating": 4.8,
+          "category": "TOBACCO FLAVOUR"
           },
           {
           "id": 3,
-          "title": "Ambeyes Obat Herbal Wasir / Ambeien",
-          "description": "AMBEYES adalah Herbal yang terbuat dari bahan-bahan alami, dan dibuat khusus untuk membantu mengatasi Ambeien dan Wasir. AMBEYES terbuat dari 100% bahan-bahan alami pilihan dengan kualitas terbaik dan telah diuji yang diproses dengan teknologi nano sehingga sangat sinergis untuk bantu atasi ambeien dan wasir.",
-          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1608526687.jpg",
-          "price": 285000,
-          "rating": 4.6,
-          "category": "Herbal"
+          "title": "SWEET DURIAN",
+          "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+          "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/d31bd2b1-66a5-4b90-8cd9-b0dec8f5cd92.jpg",
+          "price": 28000,
+          "rating": 3.6,
+          "category": "TOBACCO FLAVOUR"
           },
           {
           "id": 4,
-          "title": "Co-Vitamin",
-          "description": "Co-Vitamin adalah suplemen berkhasiat untuk menambah imunitas tubuh, sangat dibutuhkan untuk menangkal VIRUS dan sebagai Antioksidan penangkal radikal bebas ditengah pandemi. Khasiat terbukti yang terbaik, aman tanpa efek samping. Terbuat dari bahan alami yang telah teruji klinis dan di prose secara modern sehingga tercipta produk yang berkualitas.",
-          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1798766121.jpg",
-          "price": 145000,
-          "rating": 4.8,
-          "category": "Herbal"
+          "title": "GAYO WHISKEY",
+          "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+          "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/487d15b6-faf6-4b01-8c2d-1e801964b45b.jpg",
+          "price": 30000,
+          "rating": 5,
+          "category": "TOBACCO FLAVOUR"
           },
           {
           "id": 5,
-          "title": "Herblis Obat Sipilis , Ghonore, Kencing Nanah",
-          "description": "Obat herbal sipilis ( raja singa ) HERBPLIS produk herbal dari tumbuhan Herbal 100% Alami yang bermanfaat mengobati luka pada bagian kelamin dan rasa nyeri saat buang air kecil, dan juga ampuh menyembuhkan pendarahan / keluar nanah saat buang air. obat HerbPlis akan bekerja secara alami menyembuhkan Sipilis dari dalam.",
-          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1608569655.jpg",
-          "price": 245000,
+          "title": "GAYO CREAMY COFFEE",
+          "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+          "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/4ed4722d-f9cc-46f6-be53-b06cfe0c3ae8.jpg",
+          "price": 30000,
           "rating": 4.3,
-          "category": "Herbal"
+          "category": "TOBACCO FLAVOUR"
           },
           {
           "id": 6,
-          "title": "Herbatih - Obat Keputihan Herbal Alami",
-          "description": "Herbatih merupakan Obat Herbal khusus wanita ramuan pilihan yang ampuh untuk membantu perawatan kesehatan organ intim wanita, serta membantu meningkatkan kualitas keharmonisan hubungan suami istri, membantu menghilangkan keputihan, bau pada organ intim, rasa gatal, serta luka di bagian luar miss V Untuk keputihan yang tidak normal",
-          "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/35500059/1608572801.jpg",
-          "price": 245000,
+          "title": "GAYO BUTTER MILKY",
+          "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+          "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/7228d3ba-89a6-4903-aa05-3263c82d741d.jpg",
+          "price": 30000,
           "rating": 4.5,
-          "category": "Herbal"
+          "category": "TOBACCO FLAVOUR"
+          },
+          {
+          "id": 7,
+          "title": "ARABICA HONEY PROCESS",
+          "description": "COFFEE PREMIUM, Kopi biji arabica ciwidey honey process 150gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+          "img": "https://s0.bukalapak.com/img/0717394133/large/IMG_20180922_121715_scaled.jpg",
+          "price": 50000,
+          "rating": 4.9,
+          "category": "COFFEE"
+          },
+          {
+          "id": 8,
+          "title": "ARABICA WINE COFFE",
+          "description": "COFFEE PREMIUM, Kopi biji arabica Wine 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+          "img": "https://cf.shopee.co.id/file/c7da3dfb011d200fea58a1085088e018",
+          "price": 43000,
+          "rating": 4.4,
+          "category": "COFFEE"
+          },
+          {
+          "id": 9,
+          "title": "ARABICA FULL WASH",
+          "description": "COFFEE PREMIUM, Kopi biji arabica Full Wash 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+          "img": "https://cf.shopee.co.id/file/c12cb31432980d30479cb34d90f6fc52",
+          "price": 43000,
+          "rating": 4.7,
+          "category": "COFFEE"
+          },
+          {
+          "id": 10,
+          "title": "ARABICA HONNEY",
+          "description": "COFFEE PREMIUM, Kopi biji arabica Full Wash 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+          "img": "https://cf.shopee.co.id/file/3f204493d613c3d6dcf24e272aa8d64d",
+          "price": 43000,
+          "rating": 4.5,
+          "category": "COFFEE"
+          },
+          {
+            "id": 11,
+            "title": "NATURAL COFFE",
+            "description": "COFFEE PREMIUM, Kopi biji arabica 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+            "img": "https://cf.shopee.co.id/file/d75a3a85be5b2fb1b2abcccc3f7c306c",
+            "price": 43000,
+            "rating": 5,
+            "category": "COFFEE"
           }
     ],
   "categories": [
-      "Herbal",
-      "Jamu",
-      "Ramuan"
+      "TOBACCO FLAVOUR",
+      "COFFEE"
 
   ],
   "comments": [
